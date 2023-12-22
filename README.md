@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://github.com/zxlhhyccc/openclash-dev/raw/master/docs/logo.png" alt="Clash" width="200">
-  <br>Clash<br>
+  <br>Clash-dev<br>
 </h1>
 
 <h4 align="center">A rule-based tunnel in Go.</h4>
